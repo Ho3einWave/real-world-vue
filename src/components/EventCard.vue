@@ -21,7 +21,7 @@ export default {
 }
 
 .event-card h4 {
-  color: #34996c;
+  color: #2189b2;
 }
 
 .event-card {
